@@ -1,4 +1,4 @@
-![image](https://github.com/PranavRao30/3D-OOJ-1BM22CS201/assets/153255083/72d75d2e-d27f-46b3-a448-412ab43f9e00)# 3D-OOJ-1BM22CS201
+# 3D-OOJ-1BM22CS201
 
 ![image](https://github.com/PranavRao30/3D-OOJ-1BM22CS201/assets/153255083/010ef0f5-2adf-47ae-bfc2-09dc7505c58d)
 ![image](https://github.com/PranavRao30/3D-OOJ-1BM22CS201/assets/153255083/24e71d04-eb8f-459b-9701-b99596f0a62d)
