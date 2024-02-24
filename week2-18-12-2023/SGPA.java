@@ -101,7 +101,7 @@ class SGPA
 class Main
 {
     public static void main(String args[])
-    {   System.out.println("Prajwal P\n1BM22CS200\n\n");
+    {   System.out.println("Pranav Anantha Rao\n1BM22CS201\n\n");
         SGPA ob=new SGPA();
         ob.getData();
         ob.getMarks();
